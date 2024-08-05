@@ -1,0 +1,25 @@
+body {
+    background-color: hwb(0 96% 4% / 0.992);
+    font-family: system-ui;
+    color: rgba(9, 10, 10, 0.879);
+    }
+
+h1 {
+    color: rgba(32, 32, 112, 0.747);
+}
+
+.texto {
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+.espacio {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
